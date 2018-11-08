@@ -1,3 +1,4 @@
 This is the content of test file 1.
 Add line in this file.
 Add second line in test file 1.
+Add third line from master branch.
