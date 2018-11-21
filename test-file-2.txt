@@ -1,1 +1,2 @@
 [From master] - This is the content of test file 2.
+[From master] - Add new line.
