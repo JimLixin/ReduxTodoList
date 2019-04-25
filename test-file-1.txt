@@ -5,3 +5,4 @@ Add third line from master branch.
 Today is 2018-11-09 from master branch.
 Today is 2019-02-21 from master branch.
 Another line -- Today is 2019-02-21 from master branch.
+Today is 2018-11-09 from test-branch-2.
