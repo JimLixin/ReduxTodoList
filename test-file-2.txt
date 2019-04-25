@@ -1,3 +1,6 @@
 [From master] - This is the content of test file 2.
 [From master] - Add new line.
 Today is 2018-11-09 from test-branch-2.
+This is the content of test file 2.
+Add new line from test-branch-1
+[From test-branch-1] - This is the content of test file 2.
